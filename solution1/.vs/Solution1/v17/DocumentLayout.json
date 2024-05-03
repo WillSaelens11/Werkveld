@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\werkveld\\tabelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|solutionrelative:werkveld\\tabelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\werkveld\\typetabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|solutionrelative:werkveld\\typetabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\werkveld\\typekolom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|solutionrelative:werkveld\\typekolom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\werkveld\\kolom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|solutionrelative:werkveld\\kolom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\werkveld\\domeinexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|solutionrelative:werkveld\\domeinexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\werkveld\\enumtypetabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|solutionrelative:werkveld\\enumtypetabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\werkveld\\tabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}|Werkveld\\Werkveld.csproj|solutionrelative:werkveld\\tabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DomeinException.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\DomeinException.cs",
+              "RelativeDocumentMoniker": "Werkveld\\DomeinException.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\DomeinException.cs",
+              "RelativeToolTip": "Werkveld\\DomeinException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:16:47.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TabelManager.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\TabelManager.cs",
+              "RelativeDocumentMoniker": "Werkveld\\TabelManager.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\TabelManager.cs",
+              "RelativeToolTip": "Werkveld\\TabelManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:21:04.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnumTypeTabel.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\EnumTypeTabel.cs",
+              "RelativeDocumentMoniker": "Werkveld\\EnumTypeTabel.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\EnumTypeTabel.cs",
+              "RelativeToolTip": "Werkveld\\EnumTypeTabel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:04:52.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeTabel.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\TypeTabel.cs",
+              "RelativeDocumentMoniker": "Werkveld\\TypeTabel.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\TypeTabel.cs",
+              "RelativeToolTip": "Werkveld\\TypeTabel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:02:14.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeKolom.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\TypeKolom.cs",
+              "RelativeDocumentMoniker": "Werkveld\\TypeKolom.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\TypeKolom.cs",
+              "RelativeToolTip": "Werkveld\\TypeKolom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:01:23.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tabel.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\Tabel.cs",
+              "RelativeDocumentMoniker": "Werkveld\\Tabel.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\Tabel.cs",
+              "RelativeToolTip": "Werkveld\\Tabel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:00:17.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kolom.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\Kolom.cs",
+              "RelativeDocumentMoniker": "Werkveld\\Kolom.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\Kolom.cs",
+              "RelativeToolTip": "Werkveld\\Kolom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:54:50.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

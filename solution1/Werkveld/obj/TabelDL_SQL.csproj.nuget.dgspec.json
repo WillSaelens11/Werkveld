@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\Werkveld.csproj": {}
+    "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\TabelDL_SQL.csproj": {}
   },
   "projects": {
-    "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\Werkveld.csproj": {
+    "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\TabelDL_SQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\Werkveld.csproj",
-        "projectName": "Werkveld",
-        "projectPath": "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\Werkveld.csproj",
+        "projectUniqueName": "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\TabelDL_SQL.csproj",
+        "projectName": "TabelDL_SQL",
+        "projectPath": "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\TabelDL_SQL.csproj",
         "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
         "outputPath": "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\obj\\",
         "projectStyle": "PackageReference",

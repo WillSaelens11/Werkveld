@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\TabelDL_SQL.csproj",
-      "projectName": "TabelDL_SQL",
-      "projectPath": "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\TabelDL_SQL.csproj",
+      "projectUniqueName": "C:\\HOGENT\\werkveld\\solution1\\TabelBL\\TabelBL.csproj",
+      "projectName": "TabelBL",
+      "projectPath": "C:\\HOGENT\\werkveld\\solution1\\TabelBL\\TabelBL.csproj",
       "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
-      "outputPath": "C:\\HOGENT\\werkveld\\solution1\\Werkveld\\obj\\",
+      "outputPath": "C:\\HOGENT\\werkveld\\solution1\\TabelBL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kenne\\AppData\\Roaming\\NuGet\\NuGet.Config",

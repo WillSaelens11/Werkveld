@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TabelBL.Model
 {
-    public class GoalTable : RelationGlossary
+    public class GoalTable : RelationGlossary // 1 kol, rij variable
     {
     }
 }

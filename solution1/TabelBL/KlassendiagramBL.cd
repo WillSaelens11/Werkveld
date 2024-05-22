@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TabelBL.Model.BoolGlossary">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\BoolGlossary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabelBL.Model.ConstantGlossary">
+    <Position X="13.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ConstantGlossary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabelBL.Model.ConstraintTable">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ConstraintTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabelBL.Model.DataTable">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\DataTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabelBL.Model.DecisionTable">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAIAAAAAAAAABAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\DecisionTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabelBL.Model.FunctionGlossary">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAIAAAAAAAAABAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\FunctionGlossary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabelBL.Model.GoalTable">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\GoalTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabelBL.Model.RelationGlossary">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAIAAAAAAAAABAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RelationGlossary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabelBL.Model.TypeGlossary">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAIAAAAAAAAABAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\TypeGlossary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Werkveld.TabelManager">
+    <Position X="0.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAQAQQCAAAAAAAAAAAAAAABAAAAAAAAACBAAA=</HashCode>
+      <FileName>Manager\TabelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

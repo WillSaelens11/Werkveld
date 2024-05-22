@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TabelBL.Model
 {
-    public class DecisionTable
+    public class DecisionTable // 3 kol variable, rij variable
     {
         public string Naam { get; set; }
         public string DataType { get; set; }

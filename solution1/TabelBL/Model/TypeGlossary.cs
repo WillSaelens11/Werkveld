@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TabelBL.Model
 {
-    public class TypeGlossary
+    public class TypeGlossary // 3 kol vast, rij variable
     {
         public string Naam { get; set; }
         public string DataType { get; set; }

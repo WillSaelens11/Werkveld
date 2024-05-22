@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HOGENT\\werkveld\\solution1\\TabelBL\\TabelBL.csproj": {}
+    "C:\\Users\\Monica\\Documents\\Programmeren 1\\Github\\Werkveld\\solution1\\TabelBL\\TabelBL.csproj": {}
   },
   "projects": {
-    "C:\\HOGENT\\werkveld\\solution1\\TabelBL\\TabelBL.csproj": {
+    "C:\\Users\\Monica\\Documents\\Programmeren 1\\Github\\Werkveld\\solution1\\TabelBL\\TabelBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HOGENT\\werkveld\\solution1\\TabelBL\\TabelBL.csproj",
+        "projectUniqueName": "C:\\Users\\Monica\\Documents\\Programmeren 1\\Github\\Werkveld\\solution1\\TabelBL\\TabelBL.csproj",
         "projectName": "TabelBL",
-        "projectPath": "C:\\HOGENT\\werkveld\\solution1\\TabelBL\\TabelBL.csproj",
-        "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
-        "outputPath": "C:\\HOGENT\\werkveld\\solution1\\TabelBL\\obj\\",
+        "projectPath": "C:\\Users\\Monica\\Documents\\Programmeren 1\\Github\\Werkveld\\solution1\\TabelBL\\TabelBL.csproj",
+        "packagesPath": "C:\\Users\\Monica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Monica\\Documents\\Programmeren 1\\Github\\Werkveld\\solution1\\TabelBL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kenne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Monica\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

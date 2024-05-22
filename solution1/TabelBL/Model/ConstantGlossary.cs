@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TabelBL.Model
 {
-    public class ConstantGlossary : FunctionGlossary
+    public class ConstantGlossary : FunctionGlossary // 2 kol, rij variable
     {
     }
 }

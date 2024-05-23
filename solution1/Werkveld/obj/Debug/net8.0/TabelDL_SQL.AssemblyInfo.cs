@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TabelDL_SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efb8ec73afe5faff94ee23a9c3f19967118e0332")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fb018cddff09545d3f2024ad901bcba86815c19")]
 [assembly: System.Reflection.AssemblyProductAttribute("TabelDL_SQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TabelDL_SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

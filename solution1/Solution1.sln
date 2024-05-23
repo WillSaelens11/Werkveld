@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabelDL_SQL", "Werkveld\TabelDL_SQL.csproj", "{4BB82A3C-6EFC-4AD5-9A47-DE2EA7F21CEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabelBL", "TabelBL\TabelBL.csproj", "{519F0B66-6AC4-41DA-A74A-284AFAF1745F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabelBL", "TabelBL\TabelBL.csproj", "{519F0B66-6AC4-41DA-A74A-284AFAF1745F}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DataBank", "DataBank\DataBank.sqlproj", "{637A32A8-D2EA-4FEC-BFD5-44788B6BCF18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,12 @@ Global
 		{519F0B66-6AC4-41DA-A74A-284AFAF1745F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{519F0B66-6AC4-41DA-A74A-284AFAF1745F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{519F0B66-6AC4-41DA-A74A-284AFAF1745F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637A32A8-D2EA-4FEC-BFD5-44788B6BCF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637A32A8-D2EA-4FEC-BFD5-44788B6BCF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637A32A8-D2EA-4FEC-BFD5-44788B6BCF18}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{637A32A8-D2EA-4FEC-BFD5-44788B6BCF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637A32A8-D2EA-4FEC-BFD5-44788B6BCF18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637A32A8-D2EA-4FEC-BFD5-44788B6BCF18}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

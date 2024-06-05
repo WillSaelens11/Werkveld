@@ -1,0 +1,11 @@
+D:\School\Hogent\2023-2024\Sem 2\Werkveld-Contact\solution1\TabelBL\obj\Debug\net8.0\TabelBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Hogent\2023-2024\Sem 2\Werkveld-Contact\solution1\TabelBL\obj\Debug\net8.0\TabelBL.AssemblyInfoInputs.cache
+D:\School\Hogent\2023-2024\Sem 2\Werkveld-Contact\solution1\TabelBL\obj\Debug\net8.0\TabelBL.AssemblyInfo.cs
+D:\School\Hogent\2023-2024\Sem 2\Werkveld-Contact\solution1\TabelBL\obj\Debug\net8.0\TabelBL.csproj.CoreCompileInputs.cache
+D:\School\Hogent\2023-2024\Sem 2\Werkveld-Contact\solution1\TabelBL\obj\Debug\net8.0\TabelBL.sourcelink.json
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.AssemblyInfo.cs
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.sourcelink.json
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.csproj.AssemblyReference.cache

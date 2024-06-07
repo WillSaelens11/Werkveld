@@ -8,5 +8,6 @@ namespace TabelBL.Model
 {
     public class BoolGlossary : RelationGlossary // 1 kol, rij variable
     {
+
     }
 }

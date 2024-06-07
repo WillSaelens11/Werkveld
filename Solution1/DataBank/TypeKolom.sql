@@ -1,6 +1,0 @@
-﻿CREATE TABLE [dbo].[TypeKolom]
-(
-	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
-    [DataType] NVARCHAR(150) NOT NULL, 
-    [Naam] NVARCHAR(150) NOT NULL 
-)

@@ -7,11 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button Content="Voeg rij toe aan TypeGlossary" Click="VoegRijToe_Click"/>
-        <DataGrid x:Name="typeGlossaryTable" ItemsSource="{Binding Rijen}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="158*"/>
+            <ColumnDefinition Width="243*"/>
+            <ColumnDefinition Width="124*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Voeg rij toe aan TypeGlossary" Click="VoegRijToe_Click" Grid.ColumnSpan="3"/>
+        <DataGrid x:Name="typeGlossaryTable" ItemsSource="{Binding Rijen}" Grid.ColumnSpan="3">
             <!-- Voeg hier je kolommen toe -->
         </DataGrid>
-        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top" Height="200" Width="497" AutoGenerateColumns="False">
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="28,56,0,0" VerticalAlignment="Top" Height="200" Width="438" AutoGenerateColumns="False" SelectionChanged="dataGrid_SelectionChanged" Grid.ColumnSpan="3">
             <DataGrid.Columns>
                 <!-- Voeg hier je andere kolommen toe -->
                 <DataGridTextColumn Header="Voorbeeld Kolom" Binding="{Binding VoorbeeldKolom}" />

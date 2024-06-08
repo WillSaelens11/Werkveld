@@ -66,8 +66,7 @@
               "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T13:33:54.707Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -100,12 +99,12 @@
               "Title": "BindingExpression.cs",
               "DocumentMoniker": "C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
-              "ToolTip": "C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs [Read Only]",
+              "ToolTip": "C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
               "ViewState": "AQIAAGYBAAAAAAAAAAAhwIMBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T15:34:24.982Z",
-              "EditorCaption": " [Read Only]"
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

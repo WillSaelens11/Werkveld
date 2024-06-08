@@ -19,3 +19,44 @@ C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\obj\Debug\net8.0-windows\ref
 C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.pdb
 C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.genruntimeconfig.cache
 C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\obj\Debug\net8.0-windows\ref\WPF1.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\bin\Debug\net8.0-windows\WPF1.exe
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\bin\Debug\net8.0-windows\WPF1.deps.json
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\bin\Debug\net8.0-windows\WPF1.runtimeconfig.json
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\bin\Debug\net8.0-windows\WPF1.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\bin\Debug\net8.0-windows\WPF1.pdb
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\bin\Debug\net8.0-windows\TabelBL.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\bin\Debug\net8.0-windows\TabelDL_SQL.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\bin\Debug\net8.0-windows\TabelBL.pdb
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\bin\Debug\net8.0-windows\TabelDL_SQL.pdb
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.csproj.AssemblyReference.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\MainWindow2.g.cs
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\Tabel_Page.g.cs
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1_MarkupCompile.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1_MarkupCompile.lref
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\MainWindow2.baml
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\Tabel_Page.baml
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.g.resources
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.AssemblyInfoInputs.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.AssemblyInfo.cs
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.csproj.CoreCompileInputs.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.sourcelink.json
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.csproj.Up2Date
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\refint\WPF1.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.pdb
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.genruntimeconfig.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\WPF1\obj\Debug\net8.0-windows\ref\WPF1.dll
+C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\bin\Debug\net8.0-windows\TabelBL.dll
+C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\bin\Debug\net8.0-windows\TabelDL_SQL.dll
+C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\bin\Debug\net8.0-windows\TabelBL.pdb
+C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\bin\Debug\net8.0-windows\TabelDL_SQL.pdb
+C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\obj\Debug\net8.0-windows\MainWindow2.g.cs
+C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\obj\Debug\net8.0-windows\Tabel_Page.g.cs
+C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\obj\Debug\net8.0-windows\MainWindow2.baml
+C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\obj\Debug\net8.0-windows\Tabel_Page.baml
+C:\Users\willi\source\repos\Werkveld\Solution1\WPF1\obj\Debug\net8.0-windows\WPF1.csproj.Up2Date

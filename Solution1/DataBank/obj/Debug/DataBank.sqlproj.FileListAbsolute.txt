@@ -1,0 +1,8 @@
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\DataBank\bin\Debug\DataBank.dacpac
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\DataBank\obj\Debug\DataBank.sqlproj.AssemblyReference.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\DataBank\obj\Debug\Model.xml
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\DataBank\obj\Debug\refactor.xml
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\DataBank\obj\Debug\postdeploy.sql
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\DataBank\obj\Debug\predeploy.sql
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\DataBank\obj\Debug\DataBank.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\DataBank\obj\Debug\DataBank.pdb

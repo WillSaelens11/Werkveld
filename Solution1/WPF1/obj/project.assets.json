@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "TabelBL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TabelDL_SQL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TabelBL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TabelBL.dll": {}
+        }
+      },
+      "TabelDL_SQL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TabelDL_SQL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TabelDL_SQL.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TabelBL/1.0.0": {
+      "type": "project",
+      "path": "../TabelBL/TabelBL.csproj",
+      "msbuildProject": "../TabelBL/TabelBL.csproj"
+    },
+    "TabelDL_SQL/1.0.0": {
+      "type": "project",
+      "path": "../Werkveld/TabelDL_SQL.csproj",
+      "msbuildProject": "../Werkveld/TabelDL_SQL.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "TabelBL >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\willi\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\TabelBL.csproj": {
+              "projectPath": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\TabelBL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

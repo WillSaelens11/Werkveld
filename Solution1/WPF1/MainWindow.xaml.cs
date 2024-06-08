@@ -56,10 +56,5 @@ namespace WPF1
                 dt.Columns.RemoveAt(dt.Columns.Count - 1);
             }
         }
-
-        private void dataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
-        }
     }
 }

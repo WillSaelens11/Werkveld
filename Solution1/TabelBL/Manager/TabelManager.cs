@@ -5,10 +5,11 @@ using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using TabelDL_SQL;
+using Werkveld.TabelBL.Model.DomeinModel;
 
 namespace Werkveld
 {
-    /*public class TabelManager
+    public class TabelManager
     {
         public List<Tabel> Tabellen { get; private set; } = new List<Tabel>();
 
@@ -27,7 +28,7 @@ namespace Werkveld
 
         public void VoegKolomToe(Tabel tabel, Kolom kolom)
         {
-            if (tabel.Kolommen.count <= tabel.TypeTabel.MaxKolommen) // als het aantal kolommen in de tabel kleiner is dan het maximum aantal kolommen voor dat tabeltype
+            if (tabel.Kolommen.Count <= tabel.TypeTabel.MaxKolommen) // als het aantal kolommen in de tabel kleiner is dan het maximum aantal kolommen voor dat tabeltype
             {
                 tabel.VoegkolomToe(kolom);
             }
@@ -35,9 +36,9 @@ namespace Werkveld
         }
         public void VerwijderKolom(Tabel tabel, Kolom kolom)
         {
-            if (BestaatTabel(tabel) && BestaatKolom(kolom))
+            if (BestaatTabel(tabel) && BestaatKolom(tabel, kolom))
             {
-                if (tabel.Kolommen.count >= tabel.TypeTabel.Minkolommen) // als het aantal kolommen in de tabel meer of gelijk is aan het minimum aantal kolommen voor dat tabeltype
+                if (tabel.Kolommen.Count >= tabel.TypeTabel.MinKolommen) // als het aantal kolommen in de tabel meer of gelijk is aan het minimum aantal kolommen voor dat tabeltype
                 {
                     tabel.Kolommen.Remove(kolom);
                 }
@@ -70,7 +71,7 @@ namespace Werkveld
         {
             return tabel.Kolommen.Contains(kolom);
         }
-*/
+
         /*public void VoegRijToe(Tabel tabel)
         {
             if (tabel.Rijen.Count < tabel.TypeTabel.MaxRijen)

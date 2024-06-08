@@ -9,3 +9,29 @@ C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.
 C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.csproj.CoreCompileInputs.cache
 C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.sourcelink.json
 C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.csproj.AssemblyReference.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\bin\Debug\net8.0\TabelBL.deps.json
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\bin\Debug\net8.0\TabelBL.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\bin\Debug\net8.0\TabelBL.pdb
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\bin\Debug\net8.0\TabelDL_SQL.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\bin\Debug\net8.0\TabelDL_SQL.pdb
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.csproj.AssemblyReference.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.AssemblyInfoInputs.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.AssemblyInfo.cs
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.csproj.CoreCompileInputs.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.sourcelink.json
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.csproj.Up2Date
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\refint\TabelBL.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.pdb
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\TabelBL\obj\Debug\net8.0\ref\TabelBL.dll
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\bin\Debug\net8.0\TabelBL.deps.json
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\bin\Debug\net8.0\TabelBL.dll
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\bin\Debug\net8.0\TabelBL.pdb
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\bin\Debug\net8.0\TabelDL_SQL.dll
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\bin\Debug\net8.0\TabelDL_SQL.pdb
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.csproj.Up2Date
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.dll
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\refint\TabelBL.dll
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\TabelBL.pdb
+C:\Users\willi\source\repos\Werkveld\Solution1\TabelBL\obj\Debug\net8.0\ref\TabelBL.dll

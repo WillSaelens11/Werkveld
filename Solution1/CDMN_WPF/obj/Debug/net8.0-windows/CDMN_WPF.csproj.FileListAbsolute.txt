@@ -1,0 +1,5 @@
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\CDMN_WPF\obj\Debug\net8.0-windows\BoolGlossary_Page.g.cs
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\CDMN_WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\CDMN_WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\CDMN_WPF\obj\Debug\net8.0-windows\CDMN_WPF_MarkupCompile.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\CDMN_WPF\obj\Debug\net8.0-windows\CDMN_WPF_MarkupCompile.lref

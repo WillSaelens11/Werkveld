@@ -22,3 +22,15 @@ C:\Users\willi\source\repos\Werkveld\Solution1\Werkveld\obj\Debug\net8.0\TabelDL
 C:\Users\willi\source\repos\Werkveld\Solution1\Werkveld\obj\Debug\net8.0\refint\TabelDL_SQL.dll
 C:\Users\willi\source\repos\Werkveld\Solution1\Werkveld\obj\Debug\net8.0\TabelDL_SQL.pdb
 C:\Users\willi\source\repos\Werkveld\Solution1\Werkveld\obj\Debug\net8.0\ref\TabelDL_SQL.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\bin\Debug\net8.0\TabelDL_SQL.deps.json
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\bin\Debug\net8.0\TabelDL_SQL.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\bin\Debug\net8.0\TabelDL_SQL.pdb
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\obj\Debug\net8.0\TabelDL_SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\obj\Debug\net8.0\TabelDL_SQL.AssemblyInfoInputs.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\obj\Debug\net8.0\TabelDL_SQL.AssemblyInfo.cs
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\obj\Debug\net8.0\TabelDL_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\obj\Debug\net8.0\TabelDL_SQL.sourcelink.json
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\obj\Debug\net8.0\TabelDL_SQL.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\obj\Debug\net8.0\refint\TabelDL_SQL.dll
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\obj\Debug\net8.0\TabelDL_SQL.pdb
+C:\Users\Monica\Documents\Programmeren 1\Github\CDMN\Solution1\Werkveld\obj\Debug\net8.0\ref\TabelDL_SQL.dll

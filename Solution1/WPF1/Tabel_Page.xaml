@@ -1,0 +1,33 @@
+﻿<Page x:Class="WPF1.Tabel_Page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF1"
+      mc:Ignorable="d" 
+      Width="auto" Height="Auto"
+      Title="Tabel X">
+
+    <Grid>
+        <Button Content="Voeg rij toe aan TypeGlossary" Click="VoegRijToe_Click" Grid.ColumnSpan="3"/>
+        <DataGrid x:Name="typeGlossaryTable" ItemsSource="{Binding Rijen}" Grid.ColumnSpan="3">
+            <!-- Voeg hier je kolommen toe -->
+        </DataGrid>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Center" VerticalAlignment="Center" Height="Auto" Width="438" AutoGenerateColumns="False" >
+            <DataGrid.Columns>
+                <!-- Voeg hier je andere kolommen toe -->
+                <DataGridTextColumn Header="Voorbeeld Kolom" Binding="{Binding VoorbeeldKolom}" />
+                <DataGridTemplateColumn Header="Acties">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="+" Click="VoegRijToe_Click"/>
+                                <Button Content="-" Click="VerwijderRij_Click"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

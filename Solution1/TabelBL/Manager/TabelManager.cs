@@ -8,7 +8,7 @@ using TabelDL_SQL;
 
 namespace Werkveld
 {
-    public class TabelManager
+    /*public class TabelManager
     {
         public List<Tabel> Tabellen { get; private set; } = new List<Tabel>();
 
@@ -70,7 +70,7 @@ namespace Werkveld
         {
             return tabel.Kolommen.Contains(kolom);
         }
-
+*/
         /*public void VoegRijToe(Tabel tabel)
         {
             if (tabel.Rijen.Count < tabel.TypeTabel.MaxRijen)

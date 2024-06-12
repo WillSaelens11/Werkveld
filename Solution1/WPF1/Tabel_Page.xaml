@@ -14,9 +14,16 @@
             <!-- Voeg hier je kolommen toe -->
         </DataGrid>
         <DataGrid x:Name="dataGrid" HorizontalAlignment="Center" VerticalAlignment="Center" Height="Auto" Width="438" AutoGenerateColumns="False" >
+            <DataGrid.Resources>
+            <Style TargetType="DataGridColumnHeader">
+                <EventSetter Event="MouseDoubleClick" Handler="DataGridColumnHeader_DoubleClick"/>
+            </Style>
+            </DataGrid.Resources>
             <DataGrid.Columns>
                 <!-- Voeg hier je andere kolommen toe -->
                 <DataGridTextColumn Header="Voorbeeld Kolom" Binding="{Binding VoorbeeldKolom}" />
+                <DataGridTextColumn Header="Extra Kolom 1" Binding="{Binding ExtraKolom1}" />
+                <DataGridTextColumn Header="Extra Kolom 2" Binding="{Binding ExtraKolom2}" />
                 <DataGridTemplateColumn Header="Acties">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
@@ -29,5 +36,6 @@
                 </DataGridTemplateColumn>
             </DataGrid.Columns>
         </DataGrid>
+        <Button Content="Save Data" Click="SaveData_Click" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,10"/>
     </Grid>
 </Page>

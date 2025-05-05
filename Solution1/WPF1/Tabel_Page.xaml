@@ -24,6 +24,7 @@
                 <DataGridTextColumn Header="Voorbeeld Kolom" Binding="{Binding VoorbeeldKolom}" />
                 <DataGridTextColumn Header="Extra Kolom 1" Binding="{Binding ExtraKolom1}" />
                 <DataGridTextColumn Header="Extra Kolom 2" Binding="{Binding ExtraKolom2}" />
+                <DataGridTextColumn Header="Extra Kolom 2" Binding="{Binding ExtraKolom3}" />
                 <DataGridTemplateColumn Header="Acties">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>

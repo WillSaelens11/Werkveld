@@ -3,11 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\bc18b508fb8f86d3c06e5f33eee280916f7bb30fb266355bdcdd55a31c333689\\BindingListCollectionView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\wpf1\\tabel_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\tabel_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\bc18b508fb8f86d3c06e5f33eee280916f7bb30fb266355bdcdd55a31c333689\\BindingListCollectionView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\wpf1\\tabel_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\tabel_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\wpf1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\wpf1\\mainwindow2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\mainwindow2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\wpf1\\mainwindow2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\mainwindow2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519F0B66-6AC4-41DA-A74A-284AFAF1745F}|TabelBL\\TabelBL.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\tabelbl\\tabelbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{519F0B66-6AC4-41DA-A74A-284AFAF1745F}|TabelBL\\TabelBL.csproj|solutionrelative:tabelbl\\tabelbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{519F0B66-6AC4-41DA-A74A-284AFAF1745F}|TabelBL\\TabelBL.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\tabelbl\\itabelmanager\\itabelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,27 +57,8 @@
       "RelativeMoniker": "D:0:0:{519F0B66-6AC4-41DA-A74A-284AFAF1745F}|TabelBL\\TabelBL.csproj|solutionrelative:tabelbl\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\wpf1\\mainwindow2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\mainwindow2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\wpf1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\wpf1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\wpf1\\mainwindow2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\mainwindow2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\wpf1\\tabel_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{56778AC2-8D95-482E-A0B2-F8458CB0DEB7}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\tabel_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{519F0B66-6AC4-41DA-A74A-284AFAF1745F}|TabelBL\\TabelBL.csproj|c:\\users\\willi\\source\\repos\\werkveld\\solution1\\tabelbl\\model\\functionglossary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -80,11 +84,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "MainWindow2.xaml.cs",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\MainWindow2.xaml.cs",
               "RelativeDocumentMoniker": "WPF1\\MainWindow2.xaml.cs",
@@ -98,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "MainWindow2.xaml",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\MainWindow2.xaml",
               "RelativeDocumentMoniker": "WPF1\\MainWindow2.xaml",
@@ -106,17 +110,18 @@
               "RelativeToolTip": "WPF1\\MainWindow2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-08T13:34:00.872Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Tabel_Page.xaml.cs",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\Tabel_Page.xaml.cs",
               "RelativeDocumentMoniker": "WPF1\\Tabel_Page.xaml.cs",
               "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\Tabel_Page.xaml.cs",
               "RelativeToolTip": "WPF1\\Tabel_Page.xaml.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAowHIAAAANAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T13:40:53.538Z",
               "IsPinned": true,
@@ -124,40 +129,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ITabelManager.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\ITabelManager\\ITabelManager.cs",
-              "RelativeDocumentMoniker": "TabelBL\\ITabelManager\\ITabelManager.cs",
-              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\ITabelManager\\ITabelManager.cs",
-              "RelativeToolTip": "TabelBL\\ITabelManager\\ITabelManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "BindingExpression.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
+              "ToolTip": "C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
+              "ViewState": "AQIAAGcBAAAAAAAAAAApwIMBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:34:14.353Z",
+              "WhenOpened": "2024-06-08T15:34:24.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ConstraintTable.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Model\\ConstraintTable.cs",
-              "RelativeDocumentMoniker": "TabelBL\\Model\\ConstraintTable.cs",
-              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Model\\ConstraintTable.cs",
-              "RelativeToolTip": "TabelBL\\Model\\ConstraintTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:34:10.286Z",
+              "WhenOpened": "2024-06-08T16:46:47.511Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Tabel_Page.xaml",
-              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\Tabel_Page.xaml",
-              "RelativeDocumentMoniker": "WPF1\\Tabel_Page.xaml",
-              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\Tabel_Page.xaml",
-              "RelativeToolTip": "WPF1\\Tabel_Page.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-08T13:28:59.397Z"
             },
             {
               "$type": "Document",
@@ -167,7 +161,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bc18b508fb8f86d3c06e5f33eee280916f7bb30fb266355bdcdd55a31c333689\\BindingListCollectionView.cs",
               "ToolTip": "C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\bc18b508fb8f86d3c06e5f33eee280916f7bb30fb266355bdcdd55a31c333689\\BindingListCollectionView.cs",
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bc18b508fb8f86d3c06e5f33eee280916f7bb30fb266355bdcdd55a31c333689\\BindingListCollectionView.cs",
-              "ViewState": "AQIAANQGAAAAAAAAAAApwO0GAAADAAAA",
+              "ViewState": "AQIAANQGAAAAAAAAAAApwOIGAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T16:45:43.38Z",
               "EditorCaption": ""
@@ -175,6 +169,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Tabel_Page.xaml",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\Tabel_Page.xaml",
+              "RelativeDocumentMoniker": "WPF1\\Tabel_Page.xaml",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\Tabel_Page.xaml",
+              "RelativeToolTip": "WPF1\\Tabel_Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T13:28:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConstraintTable.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Model\\ConstraintTable.cs",
+              "RelativeDocumentMoniker": "TabelBL\\Model\\ConstraintTable.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Model\\ConstraintTable.cs",
+              "RelativeToolTip": "TabelBL\\Model\\ConstraintTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:34:10.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITabelManager.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\ITabelManager\\ITabelManager.cs",
+              "RelativeDocumentMoniker": "TabelBL\\ITabelManager\\ITabelManager.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\ITabelManager\\ITabelManager.cs",
+              "RelativeToolTip": "TabelBL\\ITabelManager\\ITabelManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:34:14.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TabelBL",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\TabelBL.csproj",
+              "RelativeDocumentMoniker": "TabelBL\\TabelBL.csproj",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\TabelBL.csproj",
+              "RelativeToolTip": "TabelBL\\TabelBL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T15:56:25.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BoolGlossary.cs",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Model\\BoolGlossary.cs",
               "RelativeDocumentMoniker": "TabelBL\\Model\\BoolGlossary.cs",
@@ -182,24 +225,11 @@
               "RelativeToolTip": "TabelBL\\Model\\BoolGlossary.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T14:37:02.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T14:37:02.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BindingExpression.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
-              "ToolTip": "C:\\Users\\willi\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
-              "ViewState": "AQIAAG8BAAAAAAAAAAD4v48BAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T15:34:24.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "TabelManager.cs",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Manager\\TabelManager.cs",
               "RelativeDocumentMoniker": "TabelBL\\Manager\\TabelManager.cs",
@@ -207,12 +237,11 @@
               "RelativeToolTip": "TabelBL\\Manager\\TabelManager.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAACQAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T15:10:55.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T15:10:55.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Repo.cs",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\Werkveld\\Repo.cs",
               "RelativeDocumentMoniker": "Werkveld\\Repo.cs",
@@ -220,24 +249,11 @@
               "RelativeToolTip": "Werkveld\\Repo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:31:26.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T17:31:26.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPF1\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPF1\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAD0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T16:46:47.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "IRepo.cs",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Interfaces\\IRepo.cs",
               "RelativeDocumentMoniker": "TabelBL\\Interfaces\\IRepo.cs",
@@ -245,24 +261,22 @@
               "RelativeToolTip": "TabelBL\\Interfaces\\IRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:31:46.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T17:31:46.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPF1\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\WPF1\\MainWindow.xaml",
               "RelativeToolTip": "WPF1\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-08T16:45:17.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T16:45:17.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "TypeTabel.cs",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Model\\DomeinModel\\TypeTabel.cs",
               "RelativeDocumentMoniker": "TabelBL\\Model\\DomeinModel\\TypeTabel.cs",
@@ -274,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FunctionGlossary.cs",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Model\\FunctionGlossary.cs",
               "RelativeDocumentMoniker": "TabelBL\\Model\\FunctionGlossary.cs",
@@ -286,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "RelationGlossary.cs",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Model\\RelationGlossary.cs",
               "RelativeDocumentMoniker": "TabelBL\\Model\\RelationGlossary.cs",
@@ -298,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "DataTableModel.cs",
               "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\Werkveld\\Solution1\\TabelBL\\Model\\DataTableModel.cs",
               "RelativeDocumentMoniker": "TabelBL\\Model\\DataTableModel.cs",
